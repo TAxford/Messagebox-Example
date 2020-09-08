@@ -1,0 +1,12 @@
+C:\Users\timot\source\repos\Messagebox-Example\Messagebox-Example\bin\Debug\Messagebox-Example.exe.config
+C:\Users\timot\source\repos\Messagebox-Example\Messagebox-Example\bin\Debug\Messagebox-Example.exe
+C:\Users\timot\source\repos\Messagebox-Example\Messagebox-Example\bin\Debug\Messagebox-Example.pdb
+C:\Users\timot\source\repos\Messagebox-Example\Messagebox-Example\bin\Debug\Messagebox-Example.xml
+C:\Users\timot\source\repos\Messagebox-Example\Messagebox-Example\obj\Debug\Messagebox-Example.vbprojAssemblyReference.cache
+C:\Users\timot\source\repos\Messagebox-Example\Messagebox-Example\obj\Debug\Messagebox_Example.Form1.resources
+C:\Users\timot\source\repos\Messagebox-Example\Messagebox-Example\obj\Debug\Messagebox_Example.Resources.resources
+C:\Users\timot\source\repos\Messagebox-Example\Messagebox-Example\obj\Debug\Messagebox-Example.vbproj.GenerateResource.cache
+C:\Users\timot\source\repos\Messagebox-Example\Messagebox-Example\obj\Debug\Messagebox-Example.vbproj.CoreCompileInputs.cache
+C:\Users\timot\source\repos\Messagebox-Example\Messagebox-Example\obj\Debug\Messagebox-Example.exe
+C:\Users\timot\source\repos\Messagebox-Example\Messagebox-Example\obj\Debug\Messagebox-Example.xml
+C:\Users\timot\source\repos\Messagebox-Example\Messagebox-Example\obj\Debug\Messagebox-Example.pdb
